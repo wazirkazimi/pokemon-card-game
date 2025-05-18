@@ -2,7 +2,7 @@
 
 Welcome to the **Pokémon Card Game** – a fun and interactive browser-based game built for the **Code Circuit: May Hackathon**! This project was a blast to work on, and I'm excited to share it with you.
 
-🔗 **Live Demo**: [pokemon-card-game-five.vercel.app]([https://cine-zoom-five.vercel.app](https://pokemon-card-game-five.vercel.app/))
+🔗 **Live Demo**: [pokemon-card-game-five.vercel.app] (https://pokemon-card-game-five.vercel.app/)
 
 ## 🚀 Overview
 
