@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./pokemon-symbol-logo-png-31.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Pokémon Card Battle Game</title>
+</head>
+
+<body>
+    <h1>🔥Pokémon Card Battle 🎮</h1>
+    <audio id="backgroundAudio" loop>
+        <source src="./Pokemon Season 1 Music_ Pokemon, I Choose You_ [bWrVTR_IuWo].mp3" type="audio/mpeg">
+    </audio>
+    <img id="bgmusic" src="./play_circle_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png" alt="play Music">
+
+    <button onclick="startBattle()">Battle!</button>
+    <div id="loading" style="display: none;">Loading...</div>
+    <div class="pokemon-container">
+        <div class="pokemon-card" id="pokemon1"></div>
+        <div class="pokemon-card" id="pokemon2"></div>
+    </div>
+    <h2 id="battle-result"></h2>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
